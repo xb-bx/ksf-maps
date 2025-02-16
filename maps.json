@@ -2070,6 +2070,11 @@
     "type": "Staged"
   },
   {
+    "map": "surf_raqqit",
+    "tier": "3",
+    "type": "Linear"
+  },
+  {
     "map": "surf_razer_final",
     "tier": "3",
     "type": "Staged"
