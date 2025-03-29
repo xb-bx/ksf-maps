@@ -1,4 +1,6 @@
 map,tier,type
+surf_1998,1,Staged
+surf_4am,1,Staged
 surf_ace,1,Staged-Linear
 surf_aircontrol_ksf,1,Linear
 surf_akai_final,1,Linear
@@ -58,6 +60,7 @@ surf_rebel_scaz_ksf,1,Linear
 surf_santorini_ksf,1,Staged
 surf_satellite_fix,1,Linear
 surf_school_fix,1,Staged-Linear
+surf_sodacity,1,Staged-Linear
 surf_summit,1,Linear
 surf_sundown,1,Linear
 surf_tendies,1,Linear
@@ -190,6 +193,7 @@ surf_palm,2,Linear
 surf_papertown,2,Linear
 surf_pathfinder,2,Linear
 surf_perennial,2,Staged
+surf_pipeline,2,Linear
 surf_premium,2,Staged
 surf_presmon_fix,2,Staged
 surf_progress_fix,2,Staged-Linear
@@ -863,6 +867,7 @@ surf_shibboleth,7,Staged
 surf_shodan,7,Linear
 surf_sidistic,7,Linear
 surf_spectra,7,Linear
+surf_starvald,7,Linear
 surf_topology,7,Staged
 surf_twist,7,Linear
 surf_vacant,7,Linear

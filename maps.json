@@ -1,5 +1,15 @@
 [
   {
+    "map": "surf_1998",
+    "tier": "1",
+    "type": "Staged"
+  },
+  {
+    "map": "surf_4am",
+    "tier": "1",
+    "type": "Staged"
+  },
+  {
     "map": "surf_ace",
     "tier": "1",
     "type": "Staged-Linear"
@@ -291,6 +301,11 @@
   },
   {
     "map": "surf_school_fix",
+    "tier": "1",
+    "type": "Staged-Linear"
+  },
+  {
+    "map": "surf_sodacity",
     "tier": "1",
     "type": "Staged-Linear"
   },
@@ -953,6 +968,11 @@
     "map": "surf_perennial",
     "tier": "2",
     "type": "Staged"
+  },
+  {
+    "map": "surf_pipeline",
+    "tier": "2",
+    "type": "Linear"
   },
   {
     "map": "surf_premium",
@@ -4316,6 +4336,11 @@
   },
   {
     "map": "surf_spectra",
+    "tier": "7",
+    "type": "Linear"
+  },
+  {
+    "map": "surf_starvald",
     "tier": "7",
     "type": "Linear"
   },
