@@ -4105,6 +4105,11 @@
     "type": "Linear"
   },
   {
+    "map": "surf_kartune",
+    "tier": "6",
+    "type": "Staged"
+  },
+  {
     "map": "surf_kultur",
     "tier": "6",
     "type": "Staged"
