@@ -786,6 +786,7 @@ surf_skill8_h,5,Linear
 surf_smol,5,Staged
 surf_stonework3,5,Staged
 surf_strike,5,Staged
+surf_technical,5,Linear
 surf_technique,5,Staged
 surf_the_distance,5,Linear
 surf_timewarp,5,Staged

@@ -3935,6 +3935,11 @@
     "type": "Staged"
   },
   {
+    "map": "surf_technical",
+    "tier": "5",
+    "type": "Linear"
+  },
+  {
     "map": "surf_technique",
     "tier": "5",
     "type": "Staged"
