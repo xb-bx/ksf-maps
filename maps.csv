@@ -32,6 +32,7 @@ surf_fornax,1,Linear
 surf_frost,1,Linear
 surf_funhouse_v1,1,Linear
 surf_garden,1,Staged
+surf_gradient,1,Staged-Linear
 surf_hourglass,1,Linear
 surf_kepler,1,Staged-Linear
 surf_kitsune,1,Staged
