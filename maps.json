@@ -4413,5 +4413,10 @@
     "map": "surf_tensor2",
     "tier": "8",
     "type": "Staged"
+  },
+  {
+    "map": "surf_doomsday",
+    "tier": "8",
+    "type": "Staged"
   }
 ]
