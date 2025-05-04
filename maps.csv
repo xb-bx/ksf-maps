@@ -212,6 +212,7 @@ surf_sandtrap2,2,Linear
 surf_saturday,2,Linear
 surf_seaworld_fix,2,Linear
 surf_semesterbreak,2,Linear
+surf_shy,2,Linear
 surf_simpsons_source,2,Staged
 surf_skipalot,2,Linear
 surf_slob,2,Staged
@@ -880,6 +881,6 @@ surf_zen2,7,Staged
 surf_anubis_ksf,8,Staged
 surf_corruption,8,Linear
 surf_deity_ksf,8,Staged
+surf_doomsday,8,Staged
 surf_sinsane2,8,Linear
 surf_tensor2,8,Staged
-surf_doomsday,8,Staged
