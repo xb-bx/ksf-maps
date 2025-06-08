@@ -132,6 +132,7 @@ surf_flyin_fortress_fix,2,Linear
 surf_forbidden_ways_ksf,2,Linear
 surf_fortum_fix,2,Staged
 surf_frey_remake,2,Staged
+surf_fuchnut,2,Linear
 surf_funhouse2,2,Linear
 surf_glass7_ksf,2,Linear
 surf_glass9,2,Linear
@@ -544,6 +545,7 @@ surf_divided_fix,4,Staged
 surf_drifting,4,Staged-Linear
 surf_efficacy,4,Linear
 surf_ember2,4,Staged
+surf_emerald,4,Linear
 surf_endeavor,4,Staged
 surf_epithet,4,Linear
 surf_eryr,4,Staged
@@ -605,6 +607,7 @@ surf_masonry,4,Staged
 surf_medley_fix,4,Staged
 surf_memories,4,Staged
 surf_mephobia_final,4,Staged
+surf_metalpipes,4,Linear
 surf_metalwall,4,Linear
 surf_monotony_ksf,4,Staged
 surf_morbid2,4,Staged
@@ -736,6 +739,7 @@ surf_eon_fix,5,Linear
 surf_eryr2_fix,5,Staged
 surf_excavation,5,Staged
 surf_exocube_h,5,Staged
+surf_expel,5,Staged
 surf_extremex2_5,5,Staged
 surf_forsaken,5,Linear
 surf_freaky,5,Staged
@@ -846,6 +850,7 @@ surf_syria_again,6,Staged
 surf_thesteve,6,Staged
 surf_treespam,6,Staged
 surf_valpect,6,Linear
+surf_weirdcore,6,Linear
 surf_whynot,6,Staged
 surf_zen,6,Staged
 surf_antagonist,7,Staged

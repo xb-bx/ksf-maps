@@ -665,6 +665,11 @@
     "type": "Staged"
   },
   {
+    "map": "surf_fuchnut",
+    "tier": "2",
+    "type": "Linear"
+  },
+  {
     "map": "surf_funhouse2",
     "tier": "2",
     "type": "Linear"
@@ -2725,6 +2730,11 @@
     "type": "Staged"
   },
   {
+    "map": "surf_emerald",
+    "tier": "4",
+    "type": "Linear"
+  },
+  {
     "map": "surf_endeavor",
     "tier": "4",
     "type": "Staged"
@@ -3028,6 +3038,11 @@
     "map": "surf_mephobia_final",
     "tier": "4",
     "type": "Staged"
+  },
+  {
+    "map": "surf_metalpipes",
+    "tier": "4",
+    "type": "Linear"
   },
   {
     "map": "surf_metalwall",
@@ -3685,6 +3700,11 @@
     "type": "Staged"
   },
   {
+    "map": "surf_expel",
+    "tier": "5",
+    "type": "Staged"
+  },
+  {
     "map": "surf_extremex2_5",
     "tier": "5",
     "type": "Staged"
@@ -4231,6 +4251,11 @@
   },
   {
     "map": "surf_valpect",
+    "tier": "6",
+    "type": "Linear"
+  },
+  {
+    "map": "surf_weirdcore",
     "tier": "6",
     "type": "Linear"
   },
