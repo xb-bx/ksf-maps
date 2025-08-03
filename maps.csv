@@ -284,6 +284,7 @@ surf_concept,3,Staged
 surf_cookiejar,3,Linear
 surf_coralis_ksf,3,Linear
 surf_cosmo,3,Linear
+surf_crank,3,Linear
 surf_creation,3,Staged
 surf_crystal,3,Staged
 surf_cubic_ksf,3,Staged
@@ -556,6 +557,7 @@ surf_fabas,4,Staged
 surf_facility,4,Linear
 surf_finesse_final,4,Staged
 surf_fire_eye,4,Linear
+surf_firedancer,4,Staged
 surf_forbidden_tomb,4,Staged
 surf_forbidden_tomb2,4,Staged
 surf_forbidden_tomb3,4,Staged
@@ -696,6 +698,7 @@ surf_ultimate_fix,4,Staged
 surf_underworld,4,Linear
 surf_unreal_njv,4,Linear
 surf_vector_final,4,Staged
+surf_vestige_fix,4,Linear
 surf_vienna,4,Linear
 surf_volcanic,4,Linear
 surf_warped,4,Linear
@@ -711,6 +714,7 @@ surf_android_ksf,5,Staged
 surf_antimatter2,5,Staged
 surf_aphelion,5,Linear
 surf_assail,5,Linear
+surf_autosave_fix,5,Staged
 surf_breach,5,Linear
 surf_brutalist,5,Staged
 surf_castlewalls,5,Staged
@@ -775,6 +779,7 @@ surf_nightmare,5,Staged
 surf_nostromo,5,Linear
 surf_nyze,5,Staged
 surf_our,5,Linear
+surf_panta_rhei,5,Staged
 surf_polonia,5,Staged
 surf_polytron,5,Linear
 surf_primero_fix,5,Linear
@@ -806,6 +811,7 @@ surf_unreal2,5,Staged
 surf_z,5,Staged
 surf_666,6,Staged
 surf_amaro,6,Linear
+surf_angelina,6,Linear
 surf_atonement,6,Linear
 surf_autonomy,6,Staged
 surf_bugs,6,Staged
@@ -815,6 +821,7 @@ surf_crimson,6,Linear
 surf_crush2,6,Linear
 surf_diet_mountain_dew,6,Linear
 surf_disaster,6,Linear
+surf_dread,6,Staged
 surf_earthmover,6,Staged
 surf_edge,6,Linear
 surf_embrace,6,Linear
@@ -887,5 +894,6 @@ surf_anubis_ksf,8,Staged
 surf_corruption,8,Linear
 surf_deity_ksf,8,Staged
 surf_doomsday,8,Staged
+surf_joutsenlaulu,8,Linear
 surf_sinsane2,8,Linear
 surf_tensor2,8,Staged

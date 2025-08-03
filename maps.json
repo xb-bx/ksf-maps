@@ -1425,6 +1425,11 @@
     "type": "Linear"
   },
   {
+    "map": "surf_crank",
+    "tier": "3",
+    "type": "Linear"
+  },
+  {
     "map": "surf_creation",
     "tier": "3",
     "type": "Staged"
@@ -2785,6 +2790,11 @@
     "type": "Linear"
   },
   {
+    "map": "surf_firedancer",
+    "tier": "4",
+    "type": "Staged"
+  },
+  {
     "map": "surf_forbidden_tomb",
     "tier": "4",
     "type": "Staged"
@@ -3485,6 +3495,11 @@
     "type": "Staged"
   },
   {
+    "map": "surf_vestige_fix",
+    "tier": "4",
+    "type": "Linear"
+  },
+  {
     "map": "surf_vienna",
     "tier": "4",
     "type": "Linear"
@@ -3558,6 +3573,11 @@
     "map": "surf_assail",
     "tier": "5",
     "type": "Linear"
+  },
+  {
+    "map": "surf_autosave_fix",
+    "tier": "5",
+    "type": "Staged"
   },
   {
     "map": "surf_breach",
@@ -3880,6 +3900,11 @@
     "type": "Linear"
   },
   {
+    "map": "surf_panta_rhei",
+    "tier": "5",
+    "type": "Staged"
+  },
+  {
     "map": "surf_polonia",
     "tier": "5",
     "type": "Staged"
@@ -4035,6 +4060,11 @@
     "type": "Linear"
   },
   {
+    "map": "surf_angelina",
+    "tier": "6",
+    "type": "Linear"
+  },
+  {
     "map": "surf_atonement",
     "tier": "6",
     "type": "Linear"
@@ -4078,6 +4108,11 @@
     "map": "surf_disaster",
     "tier": "6",
     "type": "Linear"
+  },
+  {
+    "map": "surf_dread",
+    "tier": "6",
+    "type": "Staged"
   },
   {
     "map": "surf_earthmover",
@@ -4438,6 +4473,11 @@
     "map": "surf_doomsday",
     "tier": "8",
     "type": "Staged"
+  },
+  {
+    "map": "surf_joutsenlaulu",
+    "tier": "8",
+    "type": "Linear"
   },
   {
     "map": "surf_sinsane2",
