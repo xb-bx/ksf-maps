@@ -3545,6 +3545,11 @@
     "type": "Staged"
   },
   {
+    "map": "surf_ab",
+    "tier": "5",
+    "type": "Staged"
+  },
+  {
     "map": "surf_acerbus",
     "tier": "5",
     "type": "Staged"
